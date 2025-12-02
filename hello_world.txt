@@ -1,1 +1,12 @@
 This file is getting ready to be committed and pushed to the web :).
+
+Basic Git commands:
+
+
+
+------------ FROM GIT to GITHUB -----------
+git status -> check the status of repo.
+git add (file) -> stage the changes. Can use a . to refer to current directory.
+git commit -m "message" - commit the changes, it is important to always add a message for good reference.
+git log -> check all changes made.
+git push main origin -> send changes for the branch main origin to github. 
